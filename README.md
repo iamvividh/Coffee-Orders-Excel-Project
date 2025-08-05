@@ -31,4 +31,5 @@ This dashboard provides a clear overview of purchasing behavior and product perf
 
 
 Here's a quick snapshot of the Coffee Orders dashboard built using Excel: 
-![Dashboard snapshot](Coffee_sales_dashboard.png)
+
+
